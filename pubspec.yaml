@@ -1,0 +1,3 @@
+name: dartstuff
+dependencies:
+  test: ^1.11.0
